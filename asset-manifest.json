@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Issue-Hub/static/css/main.895aacb2.css",
+    "main.js": "/Issue-Hub/static/js/main.64d650f4.js",
+    "static/media/peng.jpg": "/Issue-Hub/static/media/peng.44514537fd9c24e66892.jpg",
+    "static/media/orangeBanner.jpg": "/Issue-Hub/static/media/orangeBanner.1e444afe4c84e3e7e803.jpg",
+    "static/media/brain3.jpg": "/Issue-Hub/static/media/brain3.8d8f4914e7d013c016e9.jpg",
+    "static/media/Nft3.png": "/Issue-Hub/static/media/Nft3.3b3e6a4b3ada7618de6c.png",
+    "static/media/architects-daughter-latin-400-normal.woff": "/Issue-Hub/static/media/architects-daughter-latin-400-normal.b5ad3c07f6891a24e273.woff",
+    "static/media/architects-daughter-latin-400-normal.woff2": "/Issue-Hub/static/media/architects-daughter-latin-400-normal.5de24e6b8da9e468d901.woff2",
+    "index.html": "/Issue-Hub/index.html",
+    "static/media/checked.svg": "/Issue-Hub/static/media/checked.6cb596af2bbf729dfac3.svg",
+    "main.895aacb2.css.map": "/Issue-Hub/static/css/main.895aacb2.css.map",
+    "main.64d650f4.js.map": "/Issue-Hub/static/js/main.64d650f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895aacb2.css",
+    "static/js/main.64d650f4.js"
+  ]
+}
