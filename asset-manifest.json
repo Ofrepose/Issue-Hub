@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Issue-Hub/static/css/main.9263a9b6.css",
-    "main.js": "/Issue-Hub/static/js/main.fe93cdf7.js",
+    "main.js": "/Issue-Hub/static/js/main.7fa3519b.js",
     "static/media/architects-daughter-latin-400-normal.woff": "/Issue-Hub/static/media/architects-daughter-latin-400-normal.b5ad3c07f6891a24e273.woff",
     "static/media/architects-daughter-latin-400-normal.woff2": "/Issue-Hub/static/media/architects-daughter-latin-400-normal.5de24e6b8da9e468d901.woff2",
     "index.html": "/Issue-Hub/index.html",
     "static/media/checked.svg": "/Issue-Hub/static/media/checked.6cb596af2bbf729dfac3.svg",
     "main.9263a9b6.css.map": "/Issue-Hub/static/css/main.9263a9b6.css.map",
-    "main.fe93cdf7.js.map": "/Issue-Hub/static/js/main.fe93cdf7.js.map"
+    "main.7fa3519b.js.map": "/Issue-Hub/static/js/main.7fa3519b.js.map"
   },
   "entrypoints": [
     "static/css/main.9263a9b6.css",
-    "static/js/main.fe93cdf7.js"
+    "static/js/main.7fa3519b.js"
   ]
 }
